@@ -34,22 +34,23 @@ Building full-stack web apps with React, Next.js, Flask & Node.js — currently 
 
 ### 🚀 Featured Projects
 
-**[BlogPost](https://github.com/YOUR_USERNAME/blogPost_fullStack)** — Full-stack Medium/dev.to-style blogging platform
+**[BlogPost](https://blogpostsamir.netlify.app)** — Full-stack Medium/dev.to-style blogging platform
 React (Vite, Tailwind v4) + Flask/SQLAlchemy backend · Auth, posts, comments, likes, bookmarks, collections, image upload
 🌐 Frontend on Netlify · ⚙️ Backend on Render · 🗄️ Neon Postgres
 
-**[EduSphere](https://github.com/YOUR_USERNAME/edusphere)** — Tutor-marketplace & learning platform
-Students connect with tutors and share resources via profiles
-🌐 Deployed on Vercel
+**[ProCoder](https://procoder-po1s.onrender.com/)** A React based Typing practice project made to increase the code typing speed and reduce the friction 
+to type the awkward symbols indentations and those always wrongly typed numbers and symbols. Also has 100's of lessons over 8 subjects language helps to 
+uplift the DSA knowledge with user progress tracking features
+🌐 Deployed on Render
 
-**[Portfolio Website](https://github.com/YOUR_USERNAME/portfolio)** — Personal portfolio
+**[Portfolio Website](https://shamiraryal.com.np)** — Personal portfolio
 Next.js, Tailwind CSS v4, Framer Motion · Terminal-style hero, project showcase, interactive quiz game
 
 ### 📊 GitHub Stats
 
 <div align="center">
 
-![Aimrs's GitHub stats](https://github-readme-stats.vercel.app/api?username=shamir-dev&show_icons=true&theme=default&hide_border=true)
+![shamir's GitHub stats](https://github-readme-stats.vercel.app/api?username=shamir-dev&show_icons=true&theme=default&hide_border=true)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shamir-dev&hide_border=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shamir-dev&layout=compact&hide_border=true)
 
