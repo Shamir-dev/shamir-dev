@@ -4,7 +4,7 @@
 
 **Aspiring AI Developer & Full-Stack Engineer** | BSc CSIT Student, Tribhuvan University
 
-Building full-stack web apps with React, Next.js, Flask & Node.js — currently looking for a **Frontend Development Internship** in Nepal.
+Building full-stack web apps with React, Next.js, Flask & Node.js — currently looking for any of **Frontend/backend/full-stack Internship | oppurnities** in Nepal.
 
 </div>
 
@@ -16,7 +16,6 @@ Building full-stack web apps with React, Next.js, Flask & Node.js — currently 
 - 📚 Deep in DSA prep (JavaScript & Python) alongside upskilling in React & Flask
 - 🧠 Studied Neural Networks, Information Retrieval, and Decision Support Systems
 - 🌱 Exploring AI-powered features (semantic search, auto-tagging) for my projects
-- 🎯 Open to frontend/full-stack internships — and considering a Master's abroad (Canada, USA, Australia, UK, Europe)
 
 ### 🛠️ Tech Stack
 
@@ -50,9 +49,9 @@ Next.js, Tailwind CSS v4, Framer Motion · Terminal-style hero, project showcase
 
 <div align="center">
 
-![shamir's GitHub stats](https://github-readme-stats.vercel.app/api?username=shamir-dev&show_icons=true&theme=default&hide_border=true)
+![shamir's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shamir-dev&show_icons=true&theme=default&hide_border=true)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shamir-dev&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shamir-dev&layout=compact&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shamir-dev&layout=compact&hide_border=true)
 
 </div>
 
